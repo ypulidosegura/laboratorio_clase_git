@@ -1,10 +1,4 @@
 
-Interfaz de inicio de sesión: 
-o	Encabezado para indicar la parte de la aplicación en la cual se encuentra.
-o	Dos Espacios para que el usuario ingrese sus datos por medio del teclado de usuario y contraseña 
-o	2 botones: 1. botón que permitirá el inicio sesión y 2. nos direccionara a la página de registro, en el caso en que el usuario aun no posea una cuenta.
-Interfaz de Registro de usuario:
-o	Cuatro espacios para el ingreso de la información del usuario por teclado como: Nombre, apellido, correo y contraseña
-o	2 botones:  1. botón que permite al usuario registrarse en el sitio web y 2 permitirá al usuario a la pagina anterior.
 
-localhost:3000/login
+En la interfaz de inicio de sesión se podrá encontrar un encabezado para indicar la parte de la aplicación en la cual se encuentra. Luego podemos encontrar una variedad de textos y un par de espacios para que el usuario ingrese datos por medio del teclado, claramente estos espacios serán respectivamente para ingresar el usuario y contraseña del usuario. Ahora bien, después de esto encontraremos dos botones, donde uno nos permitirá iniciar sesión y el otro nos direccionara a la pagina de registro, en el caso en que el usuario aun no posea una cuenta.
+Así pues, en esta pagina de registro mencionada anteriormente, se podrá visualizar otro encabezado para indicar la parte del programa en la que el usuario se encuentra. Posteriormente, encontraremos pequeños textos con sus respectivos espacios para ingreso de información por parte del usuario; Estos espacios deberán ser diligenciados con su nombre, apellido y correo correspondientemente. Ahora bien, en la parte inferior de estos espacios encontraremos dos botones, los cuales tendrán distintas funciones; Uno permitirá al usuario poder registrarse en nuestro sitio web y el otro permitirá al usuario volver a la pagina anterior en caso de haber ingresado a la pagina de registro por error.
